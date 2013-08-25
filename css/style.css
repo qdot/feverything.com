@@ -27,3 +27,13 @@ body {
 .titlefont {
     font-family: 'Passion One', cursive;
 }
+
+.navicons {
+    font-size: 24pt;
+    line-height: 20px;
+}
+
+.navicons > li > a {
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
