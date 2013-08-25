@@ -1,0 +1,29 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.mainjumbo {
+    height: 400px;
+    background: #000;
+    color: #fff;
+}
+
+.fetitle {
+    height: 400px;
+    float: left;
+}
+
+.fegrid {
+    height: 400px;
+    float: right;
+}
+
+.titlefont {
+    font-family: 'Passion One', cursive;
+}
